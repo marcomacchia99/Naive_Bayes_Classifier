@@ -1,0 +1,32 @@
+Weather data
+------------
+
+Goal: Given a description of the weather today, decide whether to go play outdoor
+(e.g., tennis) or not.
+
+Data Set Characteristics:  Multivariate, supervised
+Number of Instances (observations): 14
+Attribute (features) Characteristics: Categorical
+Number of Attributes: 4
+Associated Task: Classification
+Number of classes: 2
+
+Data file description:
+
+- The first line is the column names
+- Columns 1-4 are the input features
+- Column 5 is the target class
+
+Attributes:
+
+1) Outlook (overcast, rainy, sunny)
+2) Temperature (hot, cool, mild)
+3) Humidity (high, normal)
+4) Windy (FALSE, TRUE)
+
+Classes:
+
+Play (yes, no)
+
+
+
